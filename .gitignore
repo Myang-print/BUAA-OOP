@@ -1,0 +1,29 @@
+# Java compilation output
+*.class
+*.jar
+*.war
+*.ear
+
+# Build tool output and caches
+build/
+out/
+target/
+.gradle/
+
+# IntelliJ IDEA local project files
+.idea/
+*.iml
+
+# Local submission packages
+output/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+*~
